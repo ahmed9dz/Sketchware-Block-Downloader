@@ -1,1 +1,13 @@
-[{"Link":"https://t.me/sketchware_by_azhar_zouhir","Update Description":"More codes added","Version":"1.1"}]
+[{"Link":"https://t.me/sketchware_by_azhar_zouhir","Update Description":"behavior.setBottomSheetCallback(new BottomSheetBehavior.BottomSheetCallback() {
+        @Override
+        public void onStateChanged(View bottomSheet, int newState) {
+            // This is the crucial bit.
+            if (newState == BottomSheetBehavior.STATE_HIDDEN) {
+                bsd.cancel();
+            }
+        }
+
+        @Override
+        public void onSlide(View bottomSheet, float slideOffset) {}
+    }
+);","Version":"1.0"}]
