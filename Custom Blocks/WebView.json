@@ -1,0 +1,1 @@
+[{"name":"GetTitle","palette":"63","spec":"%m.webview getTitle","type":"s","code":"%1$s.getTitle()"},{"name":"GetFavicon","palette":"63","spec":"%m.imageview getFavicon From %m.webview","type":" ","code":"%1$s.setImageBitmap(%2$s.getFavicon());"}]
