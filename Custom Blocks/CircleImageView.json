@@ -1,0 +1,1 @@
+[{"name":"Circle ImageView","palette":"87","spec":"%m.CircleImageView \u003e add for%m.imageview Load Url%s","type":" ","code":"%2$s \u003d %1$s;\nGlide.with(getApplicationContext()).load(Uri.parse(%3$s)).into(%2$s);"},{"name":"just Custom Import","palette":"87","spec":"this is custom import add it \u003e\u003e com.bumptech.glide.Glide","type":"s","code":""}]
