@@ -1,1 +1,1 @@
-[{"Time":"18\/08\/2020","Message":"this is just notification test","Link":"https:\/\/t.me\/sketchware_by_azhar_zouhir"}]
+[{"Link":"https://t.me/sketchware_by_azhar_zouhir","Message":"This is error message","Time":"01/12/2020","Type":"Error"},{"Link":"https://t.me/sketchware_by_azhar_zouhir","Message":"This is info message","Time":"01/12/2020","Type":"Info"},{"Link":"https://t.me/sketchware_by_azhar_zouhir","Message":"This is alert message","Time":"01/12/2020","Type":"Alert"}]
