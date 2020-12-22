@@ -1,1 +1,8 @@
-[{"Cancellable":false,"Link":"https://github.com/ahmed9dz/Sketchware-Block-Downloader/blob/master/Versions/SketchMate%20V2.6.apk?raw=true","Update Description":"What's New in version 2.6\n-removed unused codes\n-more compatiblity with android 10 and 11\n-Ability to share your projects with others\n-Ability to import projects (only zip-sm type)\n-Added new Debug Screen for more details\n-more speed and flexibility\n-refresh design\n\nUpcoming Features :\n-Icons Section \n-Upload Projects to SketchMate Store\n-Add more fonts (approximately more than 2000)\n- chat Room (maybe)","Version":"2.6"}]
+[
+  {
+    "Cancellable": false,
+    "Link": "https://github.com/ahmed9dz/Sketchware-Block-Downloader/blob/master/Versions/SketchMate%20V3.apk?raw\u003dtrue",
+    "Update Description": "SketchMate V3\nMain features :\nDownload mods,tools,custom blocks, custom components , asd codes, fonts, projects, libraries and backup /clone projects all in one app\n\nWhat\u0027s New in version 3.0\n-Added custom components section\n-Added notifications section\n-updated font system (now there is only 500 fonts and it should be more than enough)\n-removed unused codes\n-downgraded sdk to android 9 (sdk 28) due to some compatibility issues.\n-redisgn the app from the ground up\n-more speed and flexibility\n-refresh design\n\nThis version will be a long term so it will not be updated for a long time unless something happens.\n\nUpcoming Features :\n-Icons Section \n-Upload Projects to SketchMate Store\n- chat Room (maybe)",
+    "Version": "3.0"
+  }
+]
