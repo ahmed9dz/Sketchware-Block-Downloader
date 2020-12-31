@@ -1,1 +1,20 @@
-[{"Description":"simple project of Custom dialogs designs with object animator","Icon":"https://github.com/ahmed9dz/Sketchware-Block-Downloader/blob/master/Project/info_250px.png?raw=true","Link":"https://github.com/ahmed9dz/Sketchware-Block-Downloader/blob/master/Project/FANCY_DIALOG.zip?raw=true","Title":"Fancy Dialog"},{"Description":"Color Picker Example\nThis project was made for educational, and you'are allowed to copy anything from this project. Get the tutorials & educational projects weekly in Slack.\n\nRequest more tutorial/educational projects in Slack.","Icon":"https://github.com/ahmed9dz/Sketchware-Block-Downloader/blob/master/Project/Color%20Picker%20Example%20icon.png?raw=true","Link":"https://github.com/ahmed9dz/Sketchware-Block-Downloader/blob/master/Project/Color%20Picker%20Example.zip?raw=true","Title":"Color Picker Example"}]
+[
+  {
+    "Description": "simple project of Custom dialogs designs with object animator",
+    "Icon": "https://github.com/ahmed9dz/Sketchware-Block-Downloader/blob/master/Project/info_250px.png?raw\u003dtrue",
+    "Link": "https://github.com/ahmed9dz/Sketchware-Block-Downloader/blob/master/Project/FANCY_DIALOG.zip?raw\u003dtrue",
+    "Title": "Fancy Dialog"
+  },
+  {
+    "Description": "Color Picker Example\nThis project was made for educational, and you\u0027are allowed to copy anything from this project. Get the tutorials \u0026 educational projects weekly in Slack.\n\nRequest more tutorial/educational projects in Slack.",
+    "Icon": "https://github.com/ahmed9dz/Sketchware-Block-Downloader/blob/master/Project/Color%20Picker%20Example%20icon.png?raw\u003dtrue",
+    "Link": "https://github.com/ahmed9dz/Sketchware-Block-Downloader/blob/master/Project/Color%20Picker%20Example.zip?raw\u003dtrue",
+    "Title": "Color Picker Example"
+  },
+  {
+    "Description": "Sliding images using viewpager\nThis project works with Sketchware pro only",
+    "Icon": "https://github.com/ahmed9dz/Sketchware-Block-Downloader/blob/master/Project/image_slider.png?raw\u003dtrue",
+    "Link": "https://github.com/ahmed9dz/Sketchware-Block-Downloader/blob/master/Project/image%20slider.sm-zip?raw\u003dtrue",
+    "Title": "Image Slider"
+  }
+]
